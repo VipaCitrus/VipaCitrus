@@ -10,7 +10,7 @@ Hi I am an undergraduate Computer Science Student. Welcome to my little corner o
 * ✉️  You can contact me at [vipashynas@gmail.com](mailto:vipashynas@gmail.com)
 * 🧙‍♂️ Data Sorcery Apprentice: I'm learning to wield the magic of data, turning messy datasets into sparkling insights. Python is my wand, and pandas is my spellbook.
 * 🌐 Web Dev Aficionado: I love creating visually appealing and user-friendly websites. With a keen eye for design and a knack for coding, I'm building my front-end skills one project at a time.
-* 🛠️ Toolbelt of Tricks: Python, JavaScript, HTML, CSS, React, Pandas, and a dash of SQL (for that extra flavor).
+* 🛠️ Toolbelt of Tricks: Python, JavaScript, HTML, CSS, Bootstrap, Pandas, and a dash of SQL (for that extra flavor).
   
   When I'm not (struggling while) conjuring code, you might find me:
 * 🎨 Sketching and drawing (attempting to capture the essence of my coffee mug)
